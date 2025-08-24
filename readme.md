@@ -38,7 +38,7 @@ A sophisticated, feature-rich Tic-Tac-Toe game built with React Native and TypeS
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/tic-tac-toe-ai.git
+   git clone https://github.com/lincocln816/expo-tic-tac-toe
    cd tic-tac-toe-ai
    ```
 
